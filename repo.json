@@ -1,0 +1,99 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/charlessens/cloudstream-film-repom",
+        "fileSize": 19568,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "charlessens"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 4,
+        "internalName": "CanliTV",
+        "description": "Canlı TV",
+        "url": "https://raw.githubusercontent.com/charlessens/cloudstream-film-repom/master/builds/CanliTV.cs3",
+        "name": "CanliTV"
+    },
+    {
+        "iconUrl": "https://www.cizgivedizi.com/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/charlessens/cloudstream-film-repom",
+        "fileSize": 19386,
+        "status": 3,
+        "language": "tr",
+        "authors": [
+            "charlessens"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": -1,
+        "internalName": "CizgiVeDizi",
+        "description": "cizgivedizi.com kaynak eklentisi — film ve dizi listeleri, bölüm çıkarma, m3u8/embed yakalama.",
+        "url": "https://raw.githubusercontent.com/charlessens/cloudstream-film-repom/master/builds/CizgiVeDizi.cs3",
+        "name": "CizgiVeDizi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal1103.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/charlessens/cloudstream-film-repom",
+        "fileSize": 29269,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "charlessens"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "Dizipal",
+        "description": "Dizipal sağlayıcısı",
+        "url": "https://raw.githubusercontent.com/charlessens/cloudstream-film-repom/master/builds/Dizipal.cs3",
+        "name": "Dizipal"
+    },
+    {
+        "iconUrl": "https://pbs.twimg.com/profile_images/1678085460583653382/Ol75hBtt_400x400.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/charlessens/cloudstream-film-repom",
+        "fileSize": 14129,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "charlessens"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 5,
+        "internalName": "Taraftarium24",
+        "description": "Taraftarium24 Canlı Maç İzle",
+        "url": "https://raw.githubusercontent.com/charlessens/cloudstream-film-repom/master/builds/Taraftarium24.cs3",
+        "name": "Taraftarium24"
+    },
+    {
+        "iconUrl": "https://yabancidizi.so/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/charlessens/cloudstream-film-repom",
+        "status": 3,
+        "language": "tr",
+        "authors": [
+            "charlessens"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": -1,
+        "internalName": "YabanciDiziCo",
+        "description": "yabancidizi.so kaynağı – diziler/filmler, sezon/bölüm ve m3u8/embed yakalama",
+        "url": "https://raw.githubusercontent.com/charlessens/cloudstream-film-repom/master/builds/YabanciDiziCo.cs3",
+        "name": "YabanciDiziCo"
+    }
+]
